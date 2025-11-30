@@ -31,11 +31,6 @@ Users can instantly search any coin, track price movements, market cap, 24h chan
 
 ---
 
-## 📸 Screenshots
-> (Add screenshots after deployment — Homepage, Live chart, Search page etc.)
-
----
-
 ## 🔧 Installation & Setup
 ```bash
 # Clone the repository
