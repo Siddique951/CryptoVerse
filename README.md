@@ -1,16 +1,51 @@
-# React + Vite
+# 🚀 CryptoVerse — Live Cryptocurrency Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoVerse is a React-based web application that shows **real-time cryptocurrency prices** with live charts and market analytics using the **CoinGecko API**.  
+Users can instantly search any coin, track price movements, market cap, 24h change, and rankings — all in one dashboard.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+🔗 Website: https://crypto-verse-psi-six.vercel.app 
+🔗 GitHub Repo: https://github.com/Siddique951/CryptoVerse
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- ⚡ Real-time cryptocurrency price updates
+- 📊 Live price chart with smooth animations
+- 🔍 Search any coin instantly
+- 💹 Market cap, 24-hour change, and ranking
+- 📱 Fully responsive UI
+- 🚀 Fast performance with optimized API calls
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+| Category | Technology |
+|---------|------------|
+| Frontend | React.js |
+| Charts | Chart.js |
+| API | CoinGecko API |
+| Styling | CSS |
+
+---
+
+## 📸 Screenshots
+> (Add screenshots after deployment — Homepage, Live chart, Search page etc.)
+
+---
+
+## 🔧 Installation & Setup
+```bash
+# Clone the repository
+git clone https://github.com/Siddique951/CryptoVerse
+
+# Open project
+cd CryptoVerse 
+
+# Install packages
+npm install
+
+# Start development server
+npm start
